@@ -1,1 +1,3 @@
-login signup page using html css node.js express.js and mongoDb
+Backend Project
+login signup page 
+Technology used: HTML, CSS, Node.js, Express.js and MongoDB
